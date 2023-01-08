@@ -8,7 +8,7 @@ It was released in June 2019.
 
 | Basic                   | Spec Sheet                                              |
 | ----------------------- | ------------------------------------------------------- |
-| CPU                     | Octa-Core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53) |
+| CPU                     | Quad-Core (2.0 GHz Cortex-A53) |
 | Chipset                 | MT6761                                                  |
 | GPU                     | PowerVR GE8300                                          |
 | Memory                  | 2 GB RAM                                                |
