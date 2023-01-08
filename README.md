@@ -4,7 +4,7 @@
 
 The Nokia 3.1 (codenamed _"WSP\_sprout"_) is a low-end smartphone from Nokia.
 
-It was released in May 2018.
+It was released in June 2019.
 
 | Basic                   | Spec Sheet                                              |
 | ----------------------- | ------------------------------------------------------- |
