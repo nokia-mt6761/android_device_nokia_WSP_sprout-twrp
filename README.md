@@ -2,7 +2,7 @@
 
 ## Device
 
-The Nokia 3.1 (codenamed _"WSP\_sprout"_) is a low-end smartphone from Nokia.
+The Nokia 2.2 (codenamed _"WSP\_sprout"_) is a low-end smartphone from Nokia.
 
 It was released in June 2019.
 
