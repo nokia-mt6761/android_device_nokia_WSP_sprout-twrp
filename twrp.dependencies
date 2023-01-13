@@ -2,6 +2,7 @@
   {
     "remote": "github",
     "repository": "nokia-mt6761/android_device_nokia_mt6761-common-TWRP",
+    "branch": "android-11",
     "target_path": "device/nokia/mt6761-common"
   }
 ]
